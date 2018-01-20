@@ -12,8 +12,6 @@ function happyHolidaysTo(name){
   return('Happy holidays, ${name}!');
 }happyHolidaysTo('you');
 
-but it did not work
-
 // Part #3
 // function happyHolidaysTo(holiday, name){
 //   return ('') 
