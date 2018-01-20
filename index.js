@@ -13,6 +13,6 @@ function happyHolidaysTo(name){
 }happyHolidaysTo('you');
 
 // Part #3
-function happyHolidaysTo(holiday, name){
+function happyHolidayTo(holiday, name){
   return (`${holiday}, ${name}`); 
 }happyHolidaysTo('Independence day', 'you');
