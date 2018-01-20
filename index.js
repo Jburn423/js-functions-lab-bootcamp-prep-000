@@ -4,10 +4,6 @@ function happyHolidays(){
 }happyHolidays();
 
 // Part #2
-// function happyHolidaysTo(name){
-//   return('Happy holidays, you!');
-// }happyHolidaysTo();
-
 function happyHolidaysTo(name){
   return(`Happy holidays, ${name}!`);
 }happyHolidaysTo('you');
@@ -18,3 +14,6 @@ function happyHolidayTo(holiday, name){
 }happyHolidayTo('Independence day', 'you');
 
 // Part #4
+function holidayCountdown(days, holiday){
+  return(`It's ${days} until ${holiday}`)
+}
