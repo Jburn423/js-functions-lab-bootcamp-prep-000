@@ -13,6 +13,6 @@ function happyHolidaysTo(name){
 }happyHolidaysTo('you');
 
 // Part #3
-// function happyHolidaysTo(holiday, name){
-//   return ('') 
-// }
+function happyHolidaysTo(holiday, name){
+  return ('') 
+}
